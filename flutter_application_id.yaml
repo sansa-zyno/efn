@@ -1,0 +1,7 @@
+flutter_application_id:
+  android:
+    id: "com.empowermentfoodnetwork.www"
+    name: "EFN"
+  ios:
+    id: "com.empowermentfoodnetwork.www"
+    name: "EFN"
